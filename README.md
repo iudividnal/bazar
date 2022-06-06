@@ -1,2 +1,3 @@
 # bazar
-bruh
+muj bazar
+
